@@ -1,11 +1,11 @@
-# titulo
+# Title
 
-## subtitulo
+## subtitle
 
-- lista 1
-- lista 2
+- list 1
+- list 2
 
-**negrita**
+**bold**
 
 higlited text `higlight`
 
