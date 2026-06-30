@@ -1,21 +1,22 @@
-# Title
+# titulo
 
-## subtitle
+## subtitulo
 
-- list 1
-- list 2
+- lista 1
+- lista 2
 
-**bold**
+**negrita**
 
-higlited text `higlight`
+este es un texto `resaltado`
 
 _italic_
 
+
 ```yaml
-  test: 123
-  list:
-    - name: abc
-      num: 123
+test: 123
+list:
+  - name: abc
+    num: 456
 ```
 
 ```sh
@@ -24,6 +25,6 @@ cd ..
 curl localhost
 ```
 
-# Title 2
-Victor Fallas Robles
-Integracion y Despliegue Continuo
+# titulo 2
+carlos chacon calvo
+Integración y despliegue continuo
